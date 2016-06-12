@@ -1,0 +1,11 @@
+[package]
+
+name = "botler"
+version = "0.0.1"
+authors = [ "Ivan Montiel <idmontie@gmail.com>" ]
+
+[dependencies]
+
+iron = "*"
+router = "*"
+rustc-serialize = "*"
