@@ -9,3 +9,4 @@ authors = [ "Ivan Montiel <idmontie@gmail.com>" ]
 iron = "*"
 router = "*"
 rustc-serialize = "*"
+hyper = "*"
