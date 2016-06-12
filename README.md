@@ -1,8 +1,13 @@
 # botly-rust
 App written using Rust and React
 
+```
+cargo run
+```
 
-On a Mac?
+## Troubleshooting
+
+On a Mac? Getting an openssl error?
 
 ```
 brew install openssl
